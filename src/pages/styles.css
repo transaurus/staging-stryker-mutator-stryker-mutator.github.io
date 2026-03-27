@@ -1,0 +1,67 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  color: var(--stryker-yellow);
+}
+
+.bannerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.featureTitle {
+  display: flex;
+}
+
+.featureIcon {
+  margin-top: 1px;
+  margin-right: 8px;
+}
+
+.languages {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.getStarted {
+  margin-left: 1rem;
+}
+
+.languageImage {
+  height: 200px;
+  width: auto;
+}
+
+.heroImage {
+  min-width: 400px;
+  width: 400px;
+  height: 400px;
+}
+
+@media screen and (max-width: 662px) {
+  .heroImage {
+    margin-top: 1rem;
+    min-width: 200px;
+    width: 200px;
+    height: 200px;
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.General": {
+    "message": "General",
+    "description": "The label for category 'General' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Mutation Testing": {
+    "message": "Mutation Testing",
+    "description": "The label for category 'Mutation Testing' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.StrykerJS": {
+    "message": "StrykerJS",
+    "description": "The label for category 'StrykerJS' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category 'Guides' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Stryker.NET": {
+    "message": "Stryker.NET",
+    "description": "The label for category 'Stryker.NET' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Technical reference": {
+    "message": "Technical reference",
+    "description": "The label for category 'Technical reference' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.FSharp": {
+    "message": "FSharp",
+    "description": "The label for category 'FSharp' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Stryker4s": {
+    "message": "Stryker4s",
+    "description": "The label for category 'Stryker4s' in sidebar 'docs'"
+  }
+}
