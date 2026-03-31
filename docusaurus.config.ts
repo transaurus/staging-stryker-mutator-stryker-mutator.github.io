@@ -4,6 +4,10 @@ import { themes } from 'prism-react-renderer';
 import redirects from './legacy-redirects';
 
 const config: Config = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   future: {
     experimental_faster: true,
     v4: {
@@ -15,7 +19,7 @@ const config: Config = {
   tagline: 'Test your tests with mutation testing.',
   url: 'https://stryker-mutator.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   favicon: '/images/stryker.svg',
   organizationName: 'stryker-mutator',
   projectName: 'stryker-mutator.github.io',

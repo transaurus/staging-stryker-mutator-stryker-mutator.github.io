@@ -1,0 +1,62 @@
+{
+  "title": {
+    "message": "Stryker Mutator",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Stryker Mutator Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.For JavaScript": {
+    "message": "For JavaScript",
+    "description": "Navbar item with label For JavaScript"
+  },
+  "item.label.For C#": {
+    "message": "For C#",
+    "description": "Navbar item with label For C#"
+  },
+  "item.label.For Scala": {
+    "message": "For Scala",
+    "description": "Navbar item with label For Scala"
+  },
+  "item.label.An example": {
+    "message": "An example",
+    "description": "Navbar item with label An example"
+  },
+  "item.label.Playground": {
+    "message": "Playground",
+    "description": "Navbar item with label Playground"
+  },
+  "item.label.Dashboard": {
+    "message": "Dashboard",
+    "description": "Navbar item with label Dashboard"
+  },
+  "item.label.StrykerJS (JS & TS)": {
+    "message": "StrykerJS (JS & TS)",
+    "description": "Navbar item with label StrykerJS (JS & TS)"
+  },
+  "item.label.Stryker.NET (C#)": {
+    "message": "Stryker.NET (C#)",
+    "description": "Navbar item with label Stryker.NET (C#)"
+  },
+  "item.label.Stryker4s (Scala)": {
+    "message": "Stryker4s (Scala)",
+    "description": "Navbar item with label Stryker4s (Scala)"
+  },
+  "item.label.Mutation Testing Elements": {
+    "message": "Mutation Testing Elements",
+    "description": "Navbar item with label Mutation Testing Elements"
+  },
+  "item.label.Stryker Dashboard": {
+    "message": "Stryker Dashboard",
+    "description": "Navbar item with label Stryker Dashboard"
+  },
+  "item.label.This website": {
+    "message": "This website",
+    "description": "Navbar item with label This website"
+  }
+}
